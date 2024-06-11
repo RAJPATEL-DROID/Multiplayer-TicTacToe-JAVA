@@ -1,0 +1,13 @@
+{
+
+    "SERVER_PORT" : 12345,
+
+    "FIRST_PORT_OF_GAME_ROOM" : 49152,
+
+    "LAST_PORT_OF_GAMEROOM" : 49162,
+
+    "NEW_GAME_ROOM_CHOICE" : "1",
+
+    "JOIN_GAME_ROOM_CHOICE" : "2"
+
+}

@@ -1,0 +1,8 @@
+Mar 19, 2024 5:15:35 PM com.server.clienthandler.ClientHandler processInput
+INFO: New Room created with session ID : 1000 on port 49152
+Mar 19, 2024 5:15:35 PM com.server.clienthandler.ClientHandler run
+INFO: Client with id : 49904 disconnected
+Mar 19, 2024 5:15:38 PM com.server.clienthandler.ClientHandler run
+INFO: Client with id : 49914 disconnected
+Mar 19, 2024 5:16:02 PM com.server.gamemanager.GameManager removeGameRoom
+INFO: Game room with id 1000 is removed from map

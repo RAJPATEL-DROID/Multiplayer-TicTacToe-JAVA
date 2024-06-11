@@ -1,0 +1,38 @@
+Mar 19, 2024 12:50:14 PM com.server.utils.ConfigReader <init>
+INFO: Config file imported successfully
+Mar 19, 2024 12:50:26 PM com.server.ServerClass main
+INFO: Client with id : 58576 connected.
+Mar 19, 2024 12:50:26 PM com.server.utils.ConfigReader <init>
+INFO: Config file imported successfully
+Mar 19, 2024 12:50:29 PM com.server.ServerClass main
+INFO: Client with id : 43074 connected.
+Mar 19, 2024 12:50:32 PM com.server.clienthandler.ClientHandler processInput
+INFO: New Room created with session ID : 1000 on port 49152
+Mar 19, 2024 12:50:32 PM com.server.gameroom.GameRoom run
+INFO: Game room started on port 49152
+Mar 19, 2024 12:50:32 PM com.server.gameroom.GameRoom run
+INFO: Player with ID : 35224 connected on game room with session id 1000
+Mar 19, 2024 12:50:32 PM com.server.game.Game addPlayerAndStartGaming
+INFO: Player 1 is on Thread : Thread-3
+Mar 19, 2024 12:50:35 PM com.server.clienthandler.ClientHandler run
+INFO: Client with id : 43074 disconnected
+Mar 19, 2024 12:50:35 PM com.server.gameroom.GameRoom run
+INFO: Player with ID : 35232 connected on game room with session id 1000
+Mar 19, 2024 12:50:35 PM com.server.game.Game addPlayerAndStartGaming
+INFO: Player 2 is on Thread : Thread-4
+Mar 19, 2024 12:50:35 PM com.server.game.Game start
+INFO: Currently Thread : Thread-3's turn is to take input
+Mar 19, 2024 12:50:35 PM com.server.game.Game start
+INFO: It's turn of player with symbol of CROSS
+Mar 19, 2024 12:50:39 PM com.server.game.Game start
+INFO: Currently Thread : Thread-4's turn is to take input
+Mar 19, 2024 12:50:39 PM com.server.game.Game start
+INFO: It's turn of player with symbol of ZERO
+Mar 19, 2024 12:50:39 PM com.server.game.Game start
+INFO: Current player disconnected.
+Mar 19, 2024 12:50:39 PM com.server.gameroom.GameRoom lambda$run$0
+INFO: Player with Id : 35232 disconnected from game room
+Mar 19, 2024 12:50:39 PM com.server.clienthandler.ClientHandler run
+INFO: Client with id : 58576 disconnected
+Mar 19, 2024 12:50:39 PM com.server.gameroom.GameRoom lambda$run$0
+INFO: Player with Id : 35224 disconnected from game room

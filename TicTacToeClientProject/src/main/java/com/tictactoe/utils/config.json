@@ -1,0 +1,9 @@
+{
+  "SERVER_IP_ADDRESS" :"10.20.40.197",
+
+  "SERVER_PORT"  : 12345,
+
+  "NEW_GAME_ROOM_CHOICE" : "1",
+
+  "JOIN_GAME_ROOM_CHOICE" : "2"
+}

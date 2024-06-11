@@ -1,0 +1,18 @@
+Mar 19, 2024 5:15:35 PM com.server.gameroom.GameRoom run
+INFO: Game room started on port 49152
+Mar 19, 2024 5:15:35 PM com.server.gameroom.GameRoom run
+INFO: Player with ID : 41486 connected on game room with session id 1000
+Mar 19, 2024 5:15:38 PM com.server.gameroom.GameRoom run
+INFO: Player with ID : 41500 connected on game room with session id 1000
+Mar 19, 2024 5:16:00 PM com.server.gameroom.GameRoom lambda$run$0
+INFO: Player with Id : 41486 disconnected from game room
+Mar 19, 2024 5:16:02 PM com.server.gameroom.GameRoom lambda$run$0
+INFO: Player with Id : 41500 disconnected from game room
+Mar 19, 2024 5:16:02 PM com.server.gameroom.GameRoom lambda$run$0
+INFO: closing the gameroom socket.
+Mar 19, 2024 5:16:02 PM com.server.gameroom.GameRoom run
+SEVERE: Game room with session Id 1000 is closing...
+Mar 19, 2024 5:16:02 PM com.server.gameroom.GameRoom run
+SEVERE: Socket closed
+Mar 19, 2024 5:16:02 PM com.server.gameroom.GameRoom run
+INFO: Game room closed

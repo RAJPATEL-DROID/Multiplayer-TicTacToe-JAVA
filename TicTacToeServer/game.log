@@ -1,0 +1,40 @@
+Mar 19, 2024 5:15:35 PM com.server.game.Game addPlayerAndStartGaming
+INFO: Player 1 is on Thread : Thread-3
+Mar 19, 2024 5:15:38 PM com.server.game.Game addPlayerAndStartGaming
+INFO: Player 2 is on Thread : Thread-4
+Mar 19, 2024 5:15:38 PM com.server.game.Game start
+INFO: Currently Thread : Thread-3's turn is to take input
+Mar 19, 2024 5:15:38 PM com.server.game.Game start
+INFO: It's turn of player with symbol of CROSS
+Mar 19, 2024 5:15:40 PM com.server.game.Game start
+INFO: Currently Thread : Thread-4's turn is to take input
+Mar 19, 2024 5:15:40 PM com.server.game.Game start
+INFO: It's turn of player with symbol of ZERO
+Mar 19, 2024 5:15:42 PM com.server.game.Game start
+INFO: Currently Thread : Thread-3's turn is to take input
+Mar 19, 2024 5:15:42 PM com.server.game.Game start
+INFO: It's turn of player with symbol of CROSS
+Mar 19, 2024 5:15:45 PM com.server.game.Game start
+INFO: Currently Thread : Thread-4's turn is to take input
+Mar 19, 2024 5:15:45 PM com.server.game.Game start
+INFO: It's turn of player with symbol of ZERO
+Mar 19, 2024 5:15:48 PM com.server.game.Game start
+INFO: Currently Thread : Thread-4's turn is to take input
+Mar 19, 2024 5:15:48 PM com.server.game.Game start
+INFO: It's turn of player with symbol of ZERO
+Mar 19, 2024 5:15:49 PM com.server.game.Game start
+INFO: Currently Thread : Thread-4's turn is to take input
+Mar 19, 2024 5:15:49 PM com.server.game.Game start
+INFO: It's turn of player with symbol of ZERO
+Mar 19, 2024 5:15:52 PM com.server.game.Game start
+INFO: Currently Thread : Thread-3's turn is to take input
+Mar 19, 2024 5:15:52 PM com.server.game.Game start
+INFO: It's turn of player with symbol of CROSS
+Mar 19, 2024 5:15:55 PM com.server.game.Game start
+INFO: Currently Thread : Thread-4's turn is to take input
+Mar 19, 2024 5:15:55 PM com.server.game.Game start
+INFO: It's turn of player with symbol of ZERO
+Mar 19, 2024 5:15:59 PM com.server.game.Game start
+INFO: Currently Thread : Thread-3's turn is to take input
+Mar 19, 2024 5:15:59 PM com.server.game.Game start
+INFO: It's turn of player with symbol of CROSS
